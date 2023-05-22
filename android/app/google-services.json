@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490030886059",
+    "project_id": "maicheckin-245b7",
+    "storage_bucket": "maicheckin-245b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490030886059:android:a77c5755994ffabca2dbee",
+        "android_client_info": {
+          "package_name": "com.tkschemicalthailand.maicheckin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490030886059-a41aqln19nbqnoajuho4erkihn9gdeqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7MHHj-tmPulM6au0kYFLRHyGm7WRk4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490030886059-a41aqln19nbqnoajuho4erkihn9gdeqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
